@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.page1">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Page1">
+        <activity android:name=".activity_unif"></activity>
+        <activity android:name=".REDBULL" />
+        <activity android:name=".SHARK"/>
+        <activity android:name=".READY" />
+        <activity android:name=".RANGYER" />
+        <activity android:name=".PEPTEIN" />
+        <activity android:name=".MONSTER" />
+        <activity android:name=".M" />
+        <activity android:name=".LIPO" />
+        <activity android:name=".karabrown" />
+        <activity android:name=".activity_energydrink" />
+        <activity android:name=".big"/>
+        <activity android:name=".saweb" />
+        <activity android:name=".aww" />
+        <activity android:name=".mirin" />
+        <activity android:name=".fanta" />
+        <activity android:name=".spite" />
+        <activity android:name=".est" />
+        <activity android:name=".pepsi" />
+        <activity android:name=".coke" />
+        <activity android:name=".SparklingWater" />
+        <activity android:name=".activity_vitamilk"/>
+        <activity android:name=".activity_milo" />
+        <activity android:name=".activity_ovaltine" />
+        <activity android:name=".activity_nongpho" />
+        <activity android:name=".activity_foremost" />
+        <activity android:name=".activity_thaidenmark" />
+        <activity android:name=".activity_meiji" />
+        <activity android:name=".activity_dutchmill" />
+        <activity android:name=".activity_betagen" />
+        <activity android:name=".activity_milk" />
+        <activity android:name=".LIPTON"/>
+        <activity android:name=".ICHITAN" />
+        <activity android:name=".OISHI" />
+        <activity android:name=".FUJICHA" />
+        <activity android:name=".SHIZUOKA" />
+        <activity android:name=".PURIKU" />
+        <activity android:name=".NESCAFE" />
+        <activity android:name=".BIRDY" />
+        <activity android:name=".ARABUS" />
+        <activity android:name=".coffee_tea" />
+        <activity android:name=".activity_tipco" />
+        <activity android:name=".activity_sappe" />
+        <activity android:name=".activity_minutemaid" />
+        <activity android:name=".activity_doikhan" />
+        <activity android:name=".activity_deedo" />
+        <activity android:name=".activity_cocomax" />
+        <activity android:name=".activity_kato" />
+        <activity android:name=".activity_c_vitt" />
+        <activity android:name=".activity_juice" />
+        <activity android:name=".activity_menu" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".activity_home" />
+        <activity android:name=".SplashScreeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
